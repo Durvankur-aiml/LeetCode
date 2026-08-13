@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Durvankur-aiml/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Durvankur-aiml/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Durvankur-aiml/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Durvankur-aiml/LeetCode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durvankur-aiml/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durvankur-aiml/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Durvankur-aiml/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
