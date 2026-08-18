@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Durvankur-aiml/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Durvankur-aiml/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Durvankur-aiml/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durvankur-aiml/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durvankur-aiml/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Durvankur-aiml/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Durvankur-aiml/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Durvankur-aiml/LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durvankur-aiml/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durvankur-aiml/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Durvankur-aiml/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Durvankur-aiml/LeetCode/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/Durvankur-aiml/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
