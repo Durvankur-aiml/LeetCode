@@ -1,45 +1,47 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        vector<int> a; 
-        vector<int> b;
-        vector<int> ans;  
+        vector<int> pos; 
+        vector<int> neg;
+        vector<int> ans; 
 
-        for(int i = 0; i < nums.size(); i++){
-            if(nums[i] > 0){
+        for(int i = 0; i<nums.size(); i++){
+            if(nums[i]>0){
                 nums[i] *= nums[i]; 
-                b.push_back(nums[i]);
+                pos.push_back(nums[i]); 
             }
             else{
                 nums[i] *= nums[i]; 
-                a.push_back(nums[i]); 
+                neg.push_back(nums[i]); 
             }
         }
-        
-        reverse(a.begin(), a.end());
+
+        reverse(neg.begin(),neg.end()); 
 
         int i = 0; 
-        int j = 0; 
+        int j = 0;
+        int n1 = neg.size();
+        int n2 = pos.size();
 
-        while(i < a.size() && j < b.size()){
-            if(a[i] < b[j]){
-                ans.push_back(a[i]);
-                i++; 
-            }
-            else{
-                ans.push_back(b[j]); 
+        while(i<n1 && j<n2){
+            if(neg[i]>pos[j]){
+                ans.push_back(pos[j]); 
                 j++;
             }
+            else{
+                ans.push_back(neg[i]); 
+                i++; 
+            }
         }
 
-        while(i < a.size()){
-            ans.push_back(a[i]);
-            i++; 
+        while(i<n1){
+            ans.push_back(neg[i]); 
+            i++;
         }
-
-        while(j < b.size()){
-            ans.push_back(b[j]); 
-            j++; 
+        
+        while(j<n2){
+            ans.push_back(pos[j]);
+            j++;
         }
 
         return ans; 
