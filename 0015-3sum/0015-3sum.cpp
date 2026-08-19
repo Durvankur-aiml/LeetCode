@@ -15,13 +15,9 @@ public:
             }
 
             while(left < right){
-                vector<int> ds;
 
                 if(nums[left] + nums[right] == sum){
-                    ds.push_back(nums[left]); 
-                    ds.push_back(nums[right]); 
-                    ds.push_back(nums[i]); 
-                    ans.push_back(ds); 
+                    ans.push_back({nums[left],nums[right],nums[i]});  
 
                     left++; 
                     right--; 
