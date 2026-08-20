@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Durvankur-aiml/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Durvankur-aiml/LeetCode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Durvankur-aiml/LeetCode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durvankur-aiml/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Durvankur-aiml/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Durvankur-aiml/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
