@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Durvankur-aiml/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Durvankur-aiml/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Durvankur-aiml/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Durvankur-aiml/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Durvankur-aiml/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Durvankur-aiml/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Durvankur-aiml/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Durvankur-aiml/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Durvankur-aiml/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Durvankur-aiml/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Durvankur-aiml/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Durvankur-aiml/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Durvankur-aiml/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Durvankur-aiml/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Durvankur-aiml/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Durvankur-aiml/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Durvankur-aiml/LeetCode/tree/master/0169-majority-element) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Durvankur-aiml/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Durvankur-aiml/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Durvankur-aiml/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Durvankur-aiml/LeetCode/tree/master/0011-container-with-most-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Durvankur-aiml/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Durvankur-aiml/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Durvankur-aiml/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Durvankur-aiml/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Durvankur-aiml/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
